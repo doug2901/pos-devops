@@ -1,6 +1,7 @@
 #teste Pipeline Jenkins 19/06 22:03
 #teste Pipeline Jenkins 19/06 22:32
 #teste Pipeline Jenkins 19/06 22:42
+#teste Pipeline Jenkins 19/06 22:50
 FROM python:3.8-slim-buster
 
 WORKDIR /app
